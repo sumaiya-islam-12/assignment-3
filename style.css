@@ -44,6 +44,7 @@ body{
     line-height: 550px;
     color: white;
     font-size: 48px;
+    margin-left: 700px;
 
 }
 .background-image-text button{
@@ -108,6 +109,7 @@ line-height: 46.55px;
     width: 60%;
     height: 73px;
     margin-top: 10px;
+    padding: 0 0 0 20px;
 }
 .from-button{
     width: 30%;
@@ -127,15 +129,19 @@ line-height: 46.55px;
 .services-button{
     text-align: center;
     position: absolute;
-    width: 30%;
-    height: 73px;
-   margin-left: 300px;
+    width:262px ;
+    height: 53px;
+   margin-left: 600px;
+   padding: 10px 0 0 0;
 
 }
 .services-img{
     border-radius: 50%;
     width: 314px;
     height: 314px;
+}
+.service-one p{
+    margin-left: 100px;
 }
 #our-philosophy-bg{
     background: #DFE8E6;
@@ -210,10 +216,10 @@ line-height: 46.55px;
 }
 .the-therapy-mind{
     width: 1440px;
-height: 386px;
-top: 4952px;
-gap: 0px;
-opacity: 0px;
+    height: 386px;
+    top: 4952px;
+    gap: 0px;
+    opacity: 0px;
 
 
 }
